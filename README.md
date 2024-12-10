@@ -1,6 +1,6 @@
 # C++17/14/11
 
-## Overview
+## Overview (note: the .ccp file are only placeholders for now.  CPP code snippet are found below)
 Many of these descriptions and examples come from various resources (see [Acknowledgements](#acknowledgements) section), summarized in my own words.
 
 Also, there are now dedicated readme pages for each major C++ version.
